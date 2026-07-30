@@ -4,3 +4,4 @@ this respository basic python practice programs
 -checking a number is palindrome or not without converting integer to string 
 -selection sort using python
 -checking bank balance and bank details
+- reverse of number

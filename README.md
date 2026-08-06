@@ -6,3 +6,4 @@ this respository basic python practice programs
 -checking bank balance and bank details
 - reverse of number
 - MobileAuthentication like a mini project
+-stack implementation
